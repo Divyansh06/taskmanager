@@ -5,7 +5,7 @@ import {
   AUTH_TOKEN_FETCH,
   AUTH_TOKEN_SUCCESS,
   AUTH_TOKEN_FAIL,
-} from "../../ActionItems/User/UserActionTypes";
+} from "../../ActionTypes/User/UserActionTypes";
 
 const initialState = {
   error: {
